@@ -1,3 +1,3 @@
 # Project- (water_desalination_with_ML)
 This project carries information about a simulation of 2D composite membrane, finally some visualization and analysis was done to understand the behaviour of composite membrane if it affects our system's salinity or not. Linear Regression was used in the process.
-A pectin based system was built with graphene , finally we tried to check if increasing the weight percentage of pectin helped in resisting the oxygen atoms of water or not. Linear regression helped in drawing the direct correlation and how the system's behavior and data changed with the pectin weight percentage. 
+A pectin based system was built with graphene , finally we tried to check if increasing the weight percentage of pectin helped in resisting the oxygen atoms of water or not. Linear regression helped in drawing the direct correlation and how the system's behavior and data changed with the pectin weight percentage.
